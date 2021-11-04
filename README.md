@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Michael, a self-taught web developer & blogger.
+## 🖖🏻 Hello, I'm Michael, a Front-End Web Developer & Blogger.
 
 ---
 
