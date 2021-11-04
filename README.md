@@ -1,4 +1,4 @@
-## 🖖🏻 Hello, I'm Michael, a Front-End Web Developer & Blogger.
+## 🖖🏻 Hello, I'm Michael, a Front-End Web Developer & Technical Writer.
 
 ---
 
