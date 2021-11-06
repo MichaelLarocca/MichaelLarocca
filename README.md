@@ -1,7 +1,5 @@
 ## 🖖🏻 Hello, I'm Michael, a Front-End Web Developer & Technical Writer.
 
----
-
 ### I am the author of the [Self-Taught the X Generation blog](https://selftaughttxg.com/).
 
 ![Self-Taught the X Generation](https://selftaughttxg.com/static/5d3d566ce09382d5f3bd0db47ef41795/8e1fc/TXG.jpg)
@@ -11,6 +9,10 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=michaellarocca&show_icons=true&theme=tokyonight" />
+
+---
+
+### 👉🏻 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 <!--
 **MichaelLarocca/MichaelLarocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
