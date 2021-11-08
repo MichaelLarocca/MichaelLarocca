@@ -14,6 +14,12 @@
 
 ### 👉🏻 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
+---
+
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 <!--
 **MichaelLarocca/MichaelLarocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
