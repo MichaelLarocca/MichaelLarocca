@@ -21,11 +21,13 @@
 [<img align="left" alt="michaeljudelarocca Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MikeJudeLarocca)[@MikeJudeLarocca](https://twitter.com/MikeJudeLarocca)
 
 
+---
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/MikeJudeLarocca?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMikeJudeLarocca&screen_name=MikeJudeLarocca)
 
 ---
 
-### Blog posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
