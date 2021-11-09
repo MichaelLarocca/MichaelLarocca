@@ -8,6 +8,17 @@
 
 ---
 
+### Latest Hashnode blog posts 📝
+<!-- BLOG-POST-LIST:START -->
+- [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://michaeljudelarocca.hashnode.dev/review-eddie-jaoude-course-how-to-customize-your-github-profile)
+- [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://dev.to/michaellarocca/hacktoberfest-2021-issue-iv-a-new-approach-18ln)
+- [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://michaeljudelarocca.hashnode.dev/hacktoberfest-2021-issue-iv-a-new-approach)
+- [My first Hacktoberfest contribution](https://dev.to/michaellarocca/my-first-hacktoberfest-contribution-2do6)
+- [My first Hacktoberfest contribution](https://michaeljudelarocca.hashnode.dev/my-first-hacktoberfest-contribution)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <img src="https://github-readme-stats.vercel.app/api?username=michaellarocca&show_icons=true&theme=tokyonight" />
 
 ---
@@ -26,15 +37,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MikeJudeLarocca?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMikeJudeLarocca&screen_name=MikeJudeLarocca)
 
 ---
-
-### Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://michaeljudelarocca.hashnode.dev/review-eddie-jaoude-course-how-to-customize-your-github-profile)
-- [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://dev.to/michaellarocca/hacktoberfest-2021-issue-iv-a-new-approach-18ln)
-- [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://michaeljudelarocca.hashnode.dev/hacktoberfest-2021-issue-iv-a-new-approach)
-- [My first Hacktoberfest contribution](https://dev.to/michaellarocca/my-first-hacktoberfest-contribution-2do6)
-- [My first Hacktoberfest contribution](https://michaeljudelarocca.hashnode.dev/my-first-hacktoberfest-contribution)
-<!-- BLOG-POST-LIST:END -->
 
 <!--
 **MichaelLarocca/MichaelLarocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
