@@ -25,7 +25,7 @@
 
 ### 👉🏻 Let's connect!
 
-[<img align="left" alt="michaeljudelarocca.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://michaeljudelarocca.com/) [michaeljudelarocca.com](michaeljudelarocca.com)
+[<img align="left" alt="michaeljudelarocca.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://michaeljudelarocca.com/) [michaeljudelarocca.com](https://michaeljudelarocca.com/)
 
 [<img align="left" alt="michaeljudelarocca LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-larocca-9315a3202/)[Michael Jude Larocca](https://www.linkedin.com/in/michael-larocca-9315a3202/)
 
