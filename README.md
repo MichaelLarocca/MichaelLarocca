@@ -29,11 +29,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://dev.to/michaellarocca/hacktoberfest-2021-issue-iv-a-new-approach-18ln)
+- [My first Hacktoberfest contribution](https://dev.to/michaellarocca/my-first-hacktoberfest-contribution-2do6)
+- [How to participate in your first Hacktoberfest repository/project](https://dev.to/scrimba/how-to-participate-in-your-first-hacktoberfest-repositoryproject-1k5j)
+- [Hacktoberfest: 2021](https://dev.to/scrimba/hacktoberfest-2021-36jd)
+- [Web Accessibility 101 - with Carie Fisher](https://dev.to/scrimba/web-accessibility-101-with-carie-fisher-2p0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
