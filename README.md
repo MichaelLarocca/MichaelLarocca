@@ -29,11 +29,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://michaeljudelarocca.hashnode.dev/review-eddie-jaoude-course-how-to-customize-your-github-profile)
 - [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://dev.to/michaellarocca/hacktoberfest-2021-issue-iv-a-new-approach-18ln)
+- [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://michaeljudelarocca.hashnode.dev/hacktoberfest-2021-issue-iv-a-new-approach)
 - [My first Hacktoberfest contribution](https://dev.to/michaellarocca/my-first-hacktoberfest-contribution-2do6)
-- [How to participate in your first Hacktoberfest repository/project](https://dev.to/scrimba/how-to-participate-in-your-first-hacktoberfest-repositoryproject-1k5j)
-- [Hacktoberfest: 2021](https://dev.to/scrimba/hacktoberfest-2021-36jd)
-- [Web Accessibility 101 - with Carie Fisher](https://dev.to/scrimba/web-accessibility-101-with-carie-fisher-2p0e)
+- [My first Hacktoberfest contribution](https://michaeljudelarocca.hashnode.dev/my-first-hacktoberfest-contribution)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
