@@ -12,7 +12,16 @@
 
 ---
 
-### 👉🏻 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+### 👉🏻 Let's connect!
+
+[<img align="left" alt="michaeljudelarocca.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://michaeljudelarocca.com/) [michaeljudelarocca.com](michaeljudelarocca.com)
+
+[<img align="left" alt="michaeljudelarocca LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-larocca-9315a3202/)[Michael Jude Larocca](https://www.linkedin.com/in/michael-larocca-9315a3202/)
+
+[<img align="left" alt="michaeljudelarocca Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MikeJudeLarocca)[@MikeJudeLarocca](https://twitter.com/MikeJudeLarocca)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/MikeJudeLarocca?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMikeJudeLarocca&screen_name=MikeJudeLarocca)
 
 ---
 
