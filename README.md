@@ -8,7 +8,7 @@
 
 ---
 
-### Latest Hashnode blog posts 📝
+### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
 - [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://michaeljudelarocca.hashnode.dev/review-eddie-jaoude-course-how-to-customize-your-github-profile)
 - [Hacktoberfest 2021: Issue IV &quot;A New Approach&quot;](https://michaeljudelarocca.hashnode.dev/hacktoberfest-2021-issue-iv-a-new-approach)
