@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Scrimba: JavaScriptmas 2021 - Issue 2](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-2)
 - [Scrimba: JavaScriptmas 2021 - Issue 1](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-1)
 - [Shruti Balasa: Getting started with Tailwind CSS](https://michaeljudelarocca.hashnode.dev/shruti-balasa-getting-started-with-tailwind-css)
 - [Kacie Ahmed: Web3 - How to Get Started as a Beginner](https://michaeljudelarocca.hashnode.dev/kacie-ahmed-web3-how-to-get-started-as-a-beginner)
 - [How to Create a Next Level GitHub Profile, with Jesse Hall](https://michaeljudelarocca.hashnode.dev/how-to-create-a-next-level-github-profile-with-jesse-hall)
-- [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://michaeljudelarocca.hashnode.dev/review-eddie-jaoude-course-how-to-customize-your-github-profile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
