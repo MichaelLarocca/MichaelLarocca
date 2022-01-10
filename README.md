@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Chris Miller&#39;s Tech Talks](https://michaeljudelarocca.hashnode.dev/chris-millers-tech-talks)
 - [Scrimba: JavaScriptmas 2021 - Issue 4](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-4)
 - [Scrimba: JavaScriptmas 2021 - Issue 3](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-3)
 - [Scrimba: JavaScriptmas 2021 - Issue 2](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-2)
 - [Scrimba: JavaScriptmas 2021 - Issue 1](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-1)
-- [Shruti Balasa: Getting started with Tailwind CSS](https://michaeljudelarocca.hashnode.dev/shruti-balasa-getting-started-with-tailwind-css)
 <!-- BLOG-POST-LIST:END -->
 
 ---
