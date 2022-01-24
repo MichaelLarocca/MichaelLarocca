@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Mike Chen: Career Tips From a CTO](https://michaeljudelarocca.hashnode.dev/mike-chen-career-tips-from-a-cto)
 - [The MentorCruise Podcast](https://michaeljudelarocca.hashnode.dev/the-mentorcruise-podcast)
 - [Chris Miller&#39;s Tech Talks](https://michaeljudelarocca.hashnode.dev/chris-millers-tech-talks)
 - [Scrimba: JavaScriptmas 2021 - Issue 4](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-4)
 - [Scrimba: JavaScriptmas 2021 - Issue 3](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-3)
-- [Scrimba: JavaScriptmas 2021 - Issue 2](https://michaeljudelarocca.hashnode.dev/scrimba-javascriptmas-2021-issue-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
