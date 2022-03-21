@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Ania Kubow: Building Tetris with JavaScript](https://michaeljudelarocca.hashnode.dev/ania-kubow-building-tetris-with-javascript)
 - [Shashi Lo: UI Design Fundamentals](https://michaeljudelarocca.hashnode.dev/shashi-lo-ui-design-fundamentals)
 - [Tech Rally - Career Tips From an Amazon Dev](https://michaeljudelarocca.hashnode.dev/tech-rally-career-tips-from-an-amazon-dev)
 - [Mike Chen: Career Tips From a CTO](https://michaeljudelarocca.hashnode.dev/mike-chen-career-tips-from-a-cto)
 - [The MentorCruise Podcast](https://michaeljudelarocca.hashnode.dev/the-mentorcruise-podcast)
-- [Chris Miller&#39;s Tech Talks](https://michaeljudelarocca.hashnode.dev/chris-millers-tech-talks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
