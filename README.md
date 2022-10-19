@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Why do entry level web developer jobs require experience?](https://michaeljudelarocca.hashnode.dev/why-do-entry-level-web-developer-jobs-require-experience)
 - [A simple guide to understanding technical web developer jargon](https://michaeljudelarocca.hashnode.dev/a-simple-guide-to-understanding-technical-web-developer-jargon)
 - [What Is the Difference Between Coding and Programming?](https://michaeljudelarocca.hashnode.dev/what-is-the-difference-between-coding-and-programming)
 - [JavaScript: How to Use the Star Wars API for Beginners](https://michaeljudelarocca.hashnode.dev/javascript-how-to-use-the-star-wars-api-for-beginners)
 - [Ania Kubow: Building Tetris with JavaScript](https://michaeljudelarocca.hashnode.dev/ania-kubow-building-tetris-with-javascript)
-- [Shashi Lo: UI Design Fundamentals](https://michaeljudelarocca.hashnode.dev/shashi-lo-ui-design-fundamentals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
