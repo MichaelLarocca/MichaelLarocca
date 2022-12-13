@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScriptmas 2022 - Issue 2](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-2)
 - [How to use LinkedIn as a developer to get a job in tech](https://michaeljudelarocca.hashnode.dev/how-to-use-linkedin-as-a-developer-to-get-a-job-in-tech)
 - [JavaScriptmas 2022 - Issue 1](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-1)
 - [LinkedIn Profile Optimization With Austin Henline](https://michaeljudelarocca.hashnode.dev/linkedin-profile-optimization-with-austin-henline)
 - [Why do entry level web developer jobs require experience?](https://michaeljudelarocca.hashnode.dev/why-do-entry-level-web-developer-jobs-require-experience)
-- [A simple guide to understanding technical web developer jargon](https://michaeljudelarocca.hashnode.dev/a-simple-guide-to-understanding-technical-web-developer-jargon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
