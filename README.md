@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write a Recursive Function in JavaScript for Beginners](https://michaeljudelarocca.hashnode.dev/how-to-write-a-recursive-function-in-javascript-for-beginners)
 - [JavaScriptmas 2022 - Issue 4](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-4)
 - [JavaScriptmas 2022 - Issue 3](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-3)
 - [JavaScriptmas 2022 - Issue 2](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-2)
 - [How to use LinkedIn as a developer to get a job in tech](https://michaeljudelarocca.hashnode.dev/how-to-use-linkedin-as-a-developer-to-get-a-job-in-tech)
-- [JavaScriptmas 2022 - Issue 1](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
