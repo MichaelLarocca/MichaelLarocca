@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [LinkFree: More Than Just Your Links, It’s a Tech Social Platform](https://michaeljudelarocca.hashnode.dev/linkfree-more-than-just-your-links-its-a-tech-social-platform)
 - [How to Become a Full Stack Designer in 2023](https://michaeljudelarocca.hashnode.dev/how-to-become-a-full-stack-designer-in-2023)
 - [Amazing Conferences for Developers in 2023](https://michaeljudelarocca.hashnode.dev/amazing-conferences-for-developers-in-2023)
 - [How to Become a Web Developer in 2023](https://michaeljudelarocca.hashnode.dev/how-to-become-a-web-developer-in-2023)
 - [How to Write a Recursive Function in JavaScript for Beginners](https://michaeljudelarocca.hashnode.dev/how-to-write-a-recursive-function-in-javascript-for-beginners)
-- [JavaScriptmas 2022 - Issue 4](https://michaeljudelarocca.hashnode.dev/javascriptmas-2022-issue-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
