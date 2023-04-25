@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Using React useState Hook to Manage Object Props](https://michaeljudelarocca.hashnode.dev/using-react-usestate-hook-to-manage-object-props)
 - [Creating a True/False Toggle in React with useState Hook for Beginners](https://michaeljudelarocca.hashnode.dev/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners)
 - [Exploring React Props by Creating Star Trek Card Components](https://michaeljudelarocca.hashnode.dev/exploring-react-props-by-creating-star-trek-card-components)
 - [Creating a Travel Journal with React](https://michaeljudelarocca.hashnode.dev/creating-a-travel-journal-with-react)
 - [Creating a Digital Business Card with React](https://michaeljudelarocca.hashnode.dev/creating-a-digital-business-card-with-react)
-- [Create a React Project, Push It to GitHub, and Deploy With Netlify, From the Command Line](https://michaeljudelarocca.hashnode.dev/create-a-react-project-push-it-to-github-and-deploy-with-netlify-from-the-command-line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
