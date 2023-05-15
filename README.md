@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Always Prepared: Crafting a Contingency Plan for Job Loss and Recovery](https://michaeljudelarocca.hashnode.dev/always-prepared-crafting-a-contingency-plan-for-job-loss-and-recovery)
 - [Expert Guidance for Succeeding in Technical Writing and Blogging](https://michaeljudelarocca.hashnode.dev/expert-guidance-for-succeeding-in-technical-writing-and-blogging)
 - [React: How to Use the Star Wars API for Beginners](https://michaeljudelarocca.hashnode.dev/react-how-to-use-the-star-wars-api-for-beginners)
 - [Using React useState Hook to Manage Object Props](https://michaeljudelarocca.hashnode.dev/using-react-usestate-hook-to-manage-object-props)
 - [Creating a True/False Toggle in React with useState Hook for Beginners](https://michaeljudelarocca.hashnode.dev/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners)
-- [Exploring React Props by Creating Star Trek Card Components](https://michaeljudelarocca.hashnode.dev/exploring-react-props-by-creating-star-trek-card-components)
 <!-- BLOG-POST-LIST:END -->
 
 ---
