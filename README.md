@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Best Time React Component](https://michaeljudelarocca.hashnode.dev/how-to-make-a-best-time-react-component)
 - [How to Get Started Learning Web Development from Scratch](https://michaeljudelarocca.hashnode.dev/how-to-get-started-learning-web-development-from-scratch)
 - [Building a Stopwatch App with React and date-fns](https://michaeljudelarocca.hashnode.dev/building-a-stopwatch-app-with-react-and-date-fns)
 - [How to Make a Countdown App with React and date-fns](https://michaeljudelarocca.hashnode.dev/how-to-make-a-countdown-app-with-react-and-date-fns)
 - [Creating Opportunity: Personal Branding Strategies for Success](https://michaeljudelarocca.hashnode.dev/creating-opportunity-personal-branding-strategies-for-success)
-- [Learn Local Storage in React: Create a Light and Dark Theme Switcher Application](https://michaeljudelarocca.hashnode.dev/learn-local-storage-in-react-create-a-light-and-dark-theme-switcher-application)
 <!-- BLOG-POST-LIST:END -->
 
 ---
