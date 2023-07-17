@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make a Confetti React Custom Hook](https://michaeljudelarocca.hashnode.dev/how-to-make-a-confetti-react-custom-hook)
 - [How to Make a Best Dice Roll React Component](https://michaeljudelarocca.hashnode.dev/how-to-make-a-best-dice-roll-react-component)
 - [How to Make a Best Time React Component](https://michaeljudelarocca.hashnode.dev/how-to-make-a-best-time-react-component)
 - [How to Get Started Learning Web Development from Scratch](https://michaeljudelarocca.hashnode.dev/how-to-get-started-learning-web-development-from-scratch)
 - [Building a Stopwatch App with React and date-fns](https://michaeljudelarocca.hashnode.dev/building-a-stopwatch-app-with-react-and-date-fns)
-- [How to Make a Countdown App with React and date-fns](https://michaeljudelarocca.hashnode.dev/how-to-make-a-countdown-app-with-react-and-date-fns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
