@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [AI and Developer Experience: Insights from James Quick at That Conference](https://michaeljudelarocca.hashnode.dev/ai-and-developer-experience-insights-from-james-quick-at-that-conference)
 - [How to Transition from JR Dev to an In-Demand Developer: Your Path to Getting Hired](https://michaeljudelarocca.hashnode.dev/how-to-transition-from-jr-dev-to-an-in-demand-developer-your-path-to-getting-hired)
 - [How to Make a Confetti React Custom Hook](https://michaeljudelarocca.hashnode.dev/how-to-make-a-confetti-react-custom-hook)
 - [How to Make a Best Dice Roll React Component](https://michaeljudelarocca.hashnode.dev/how-to-make-a-best-dice-roll-react-component)
 - [How to Make a Best Time React Component](https://michaeljudelarocca.hashnode.dev/how-to-make-a-best-time-react-component)
-- [How to Get Started Learning Web Development from Scratch](https://michaeljudelarocca.hashnode.dev/how-to-get-started-learning-web-development-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
