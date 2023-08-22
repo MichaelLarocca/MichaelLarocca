@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Developing Executive Presence: How to Become a Sought-After Developer](https://michaeljudelarocca.hashnode.dev/developing-executive-presence-how-to-become-a-sought-after-developer)
 - [Revamp Your Resume and LinkedIn Profile: Expert Tips to Get Noticed and Hired](https://michaeljudelarocca.hashnode.dev/revamp-your-resume-and-linkedin-profile-expert-tips-to-get-noticed-and-hired)
 - [Mastering JavaScript Fundamentals:  Unleashing Your Framework Readiness](https://michaeljudelarocca.hashnode.dev/mastering-javascript-fundamentals-unleashing-your-framework-readiness)
 - [AI and Developer Experience: Insights from James Quick at That Conference](https://michaeljudelarocca.hashnode.dev/ai-and-developer-experience-insights-from-james-quick-at-that-conference)
 - [How to Transition from JR Dev to an In-Demand Developer: Your Path to Getting Hired](https://michaeljudelarocca.hashnode.dev/how-to-transition-from-jr-dev-to-an-in-demand-developer-your-path-to-getting-hired)
-- [How to Make a Confetti React Custom Hook](https://michaeljudelarocca.hashnode.dev/how-to-make-a-confetti-react-custom-hook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
