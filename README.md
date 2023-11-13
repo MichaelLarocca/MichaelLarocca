@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [React Avatars: Creating a Versatile Component with Conditional Rendering and Custom Functions](https://michaeljudelarocca.hashnode.dev/react-avatars-creating-a-versatile-component-with-conditional-rendering-and-custom-functions)
 - [A Guide to React Children Props: Star Wars Button Tutorial](https://michaeljudelarocca.hashnode.dev/a-guide-to-react-children-props-star-wars-button-tutorial)
 - [How to Integrate Font Awesome Icons into React Applications](https://michaeljudelarocca.hashnode.dev/how-to-integrate-font-awesome-icons-into-react-applications)
 - [From Skillset to Networking: Tactics for Standing Out in a Challenging Job Market](https://michaeljudelarocca.hashnode.dev/from-skillset-to-networking-tactics-for-standing-out-in-a-challenging-job-market)
 - [Milestone 100th Issue: Using Blogging to Elevate Your Career](https://michaeljudelarocca.hashnode.dev/milestone-100th-issue-using-blogging-to-elevate-your-career)
-- [Mastering CSS Fundamentals: Knowing When To Transition from Basics to Frameworks](https://michaeljudelarocca.hashnode.dev/mastering-css-fundamentals-knowing-when-to-transition-from-basics-to-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
