@@ -11,10 +11,10 @@
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
 - [Front-End Development: Setting Up Your Environment and Essential Learning Topics](https://michaeljudelarocca.hashnode.dev/front-end-development-setting-up-your-environment-and-essential-learning-topics)
+- [JavaScriptmas 2023 - Week 3](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-3)
 - [JavaScriptmas 2023 - Week 2](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-2)
 - [JavaScriptmas 2023 - Week 1](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-1)
 - [What to Expect When You’re Expecting a Developer Job](https://michaeljudelarocca.hashnode.dev/what-to-expect-when-youre-expecting-a-developer-job)
-- [React Avatars: Creating a Versatile Component with Conditional Rendering and Custom Functions](https://michaeljudelarocca.hashnode.dev/react-avatars-creating-a-versatile-component-with-conditional-rendering-and-custom-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
