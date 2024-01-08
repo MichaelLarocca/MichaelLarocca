@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Learn to Use Component Identifiers as Props for Rendering Various HTML Elements Dynamically](https://michaeljudelarocca.hashnode.dev/learn-to-use-component-identifiers-as-props-for-rendering-various-html-elements-dynamically)
 - [JavaScriptmas 2023 - Week 4](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-4)
 - [Front-End Development: Setting Up Your Environment and Essential Learning Topics](https://michaeljudelarocca.hashnode.dev/front-end-development-setting-up-your-environment-and-essential-learning-topics)
 - [JavaScriptmas 2023 - Week 3](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-3)
 - [JavaScriptmas 2023 - Week 2](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-2)
-- [JavaScriptmas 2023 - Week 1](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
