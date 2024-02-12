@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Developing a Dynamic Hamburger Menu in React: A Step-by-Step Guide](https://michaeljudelarocca.hashnode.dev/developing-a-dynamic-hamburger-menu-in-react-a-step-by-step-guide)
 - [Building a Dropdown Menu in React: A Step-by-Step Guide](https://michaeljudelarocca.hashnode.dev/building-a-dropdown-menu-in-react-a-step-by-step-guide)
 - [A Guide to Better Code Organization in React through File Separation](https://michaeljudelarocca.hashnode.dev/a-guide-to-better-code-organization-in-react-through-file-separation)
 - [Kickstart Your Coding Journey: A Guide to Free Web Development Resources](https://michaeljudelarocca.hashnode.dev/kickstart-your-coding-journey-a-guide-to-free-web-development-resources)
 - [Learn to Use Component Identifiers as Props for Rendering Various HTML Elements Dynamically](https://michaeljudelarocca.hashnode.dev/learn-to-use-component-identifiers-as-props-for-rendering-various-html-elements-dynamically)
-- [JavaScriptmas 2023 - Week 4](https://michaeljudelarocca.hashnode.dev/javascriptmas-2023-week-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
