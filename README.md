@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate YouTube Videos into React Applications](https://michaeljudelarocca.hashnode.dev/how-to-integrate-youtube-videos-into-react-applications)
 - [Transitioning from Developer to Developer Advocate: A Guide for Aspiring Tech Professionals](https://michaeljudelarocca.hashnode.dev/transitioning-from-developer-to-developer-advocate-a-guide-for-aspiring-tech-professionals)
 - [From Learning to Earning: A Comprehensive Guide to Navigating Your Tech Career](https://michaeljudelarocca.hashnode.dev/from-learning-to-earning-a-comprehensive-guide-to-navigating-your-tech-career)
 - [Developing a Dynamic Hamburger Menu in React: A Step-by-Step Guide](https://michaeljudelarocca.hashnode.dev/developing-a-dynamic-hamburger-menu-in-react-a-step-by-step-guide)
 - [Building a Dropdown Menu in React: A Step-by-Step Guide](https://michaeljudelarocca.hashnode.dev/building-a-dropdown-menu-in-react-a-step-by-step-guide)
-- [A Guide to Better Code Organization in React through File Separation](https://michaeljudelarocca.hashnode.dev/a-guide-to-better-code-organization-in-react-through-file-separation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
