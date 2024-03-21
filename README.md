@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to CSS: Insights from the King of CSS, Kevin Powell](https://michaeljudelarocca.hashnode.dev/a-comprehensive-guide-to-css-insights-from-the-king-of-css-kevin-powell)
 - [Thriving in Tech: Securing Your First Job, Leveraging Side Hustles, and Overcoming Layoffs](https://michaeljudelarocca.hashnode.dev/thriving-in-tech-securing-your-first-job-leveraging-side-hustles-and-overcoming-layoffs)
 - [How to Integrate YouTube Videos into React Applications](https://michaeljudelarocca.hashnode.dev/how-to-integrate-youtube-videos-into-react-applications)
 - [Transitioning from Developer to Developer Advocate: A Guide for Aspiring Tech Professionals](https://michaeljudelarocca.hashnode.dev/transitioning-from-developer-to-developer-advocate-a-guide-for-aspiring-tech-professionals)
 - [From Learning to Earning: A Comprehensive Guide to Navigating Your Tech Career](https://michaeljudelarocca.hashnode.dev/from-learning-to-earning-a-comprehensive-guide-to-navigating-your-tech-career)
-- [Developing a Dynamic Hamburger Menu in React: A Step-by-Step Guide](https://michaeljudelarocca.hashnode.dev/developing-a-dynamic-hamburger-menu-in-react-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
