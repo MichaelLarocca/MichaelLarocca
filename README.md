@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Supermaven: The FREE GitHub Copilot Alternative](https://michaeljudelarocca.hashnode.dev/supermaven-the-free-github-copilot-alternative)
 - [How to Integrate a Carousel into React Applications](https://michaeljudelarocca.hashnode.dev/how-to-integrate-a-carousel-into-react-applications)
 - [Empowering Web Developers with Spartan Strength: AI as Your Ultimate Pair Programmer](https://michaeljudelarocca.hashnode.dev/empowering-web-developers-with-spartan-strength-ai-as-your-ultimate-pair-programmer)
 - [Cracking the Code: Essential Problem-Solving Techniques for Today&#39;s Dynamic Developer Landscape](https://michaeljudelarocca.hashnode.dev/cracking-the-code-essential-problem-solving-techniques-for-todays-dynamic-developer-landscape)
 - [A Comprehensive Guide to CSS: Insights from the King of CSS, Kevin Powell](https://michaeljudelarocca.hashnode.dev/a-comprehensive-guide-to-css-insights-from-the-king-of-css-kevin-powell)
-- [Thriving in Tech: Securing Your First Job, Leveraging Side Hustles, and Overcoming Layoffs](https://michaeljudelarocca.hashnode.dev/thriving-in-tech-securing-your-first-job-leveraging-side-hustles-and-overcoming-layoffs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
