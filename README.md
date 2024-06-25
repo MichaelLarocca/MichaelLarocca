@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Building Flexible React Components for Dynamic HTML Layouts](https://michaeljudelarocca.hashnode.dev/building-flexible-react-components-for-dynamic-html-layouts)
 - [THAT Conference: THAT&#39;s Where the Best Networking Is At!](https://michaeljudelarocca.hashnode.dev/that-conference-thats-where-the-best-networking-is-at)
 - [Supermaven: The FREE GitHub Copilot Alternative](https://michaeljudelarocca.hashnode.dev/supermaven-the-free-github-copilot-alternative)
 - [How to Integrate a Carousel into React Applications](https://michaeljudelarocca.hashnode.dev/how-to-integrate-a-carousel-into-react-applications)
 - [Empowering Web Developers with Spartan Strength: AI as Your Ultimate Pair Programmer](https://michaeljudelarocca.hashnode.dev/empowering-web-developers-with-spartan-strength-ai-as-your-ultimate-pair-programmer)
-- [Cracking the Code: Essential Problem-Solving Techniques for Today&#39;s Dynamic Developer Landscape](https://michaeljudelarocca.hashnode.dev/cracking-the-code-essential-problem-solving-techniques-for-todays-dynamic-developer-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 ---
