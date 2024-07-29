@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Dynamic Social Media Sharing in Your React App with React Share](https://michaeljudelarocca.hashnode.dev/implementing-dynamic-social-media-sharing-in-your-react-app-with-react-share)
 - [How to Set Up Dynamic Routing with React Router](https://michaeljudelarocca.hashnode.dev/how-to-set-up-dynamic-routing-with-react-router)
 - [Building Flexible React Components for Dynamic HTML Layouts](https://michaeljudelarocca.hashnode.dev/building-flexible-react-components-for-dynamic-html-layouts)
 - [THAT Conference: THAT&#39;s Where the Best Networking Is At!](https://michaeljudelarocca.hashnode.dev/that-conference-thats-where-the-best-networking-is-at)
 - [Supermaven: The FREE GitHub Copilot Alternative](https://michaeljudelarocca.hashnode.dev/supermaven-the-free-github-copilot-alternative)
-- [How to Integrate a Carousel into React Applications](https://michaeljudelarocca.hashnode.dev/how-to-integrate-a-carousel-into-react-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
