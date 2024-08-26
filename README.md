@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [My First Meetup Insights: What to Expect and How to Prepare](https://michaeljudelarocca.hashnode.dev/my-first-meetup-insights-what-to-expect-and-how-to-prepare)
 - [How Pair Programming with AI Helped Me Build a React Star Wars Website](https://michaeljudelarocca.hashnode.dev/how-pair-programming-with-ai-helped-me-build-a-react-star-wars-website)
 - [Highlights From THAT Conference WI 2024](https://michaeljudelarocca.hashnode.dev/highlights-from-that-conference-wi-2024)
 - [Implementing Dynamic Social Media Sharing in Your React App with React Share](https://michaeljudelarocca.hashnode.dev/implementing-dynamic-social-media-sharing-in-your-react-app-with-react-share)
 - [How to Set Up Dynamic Routing with React Router](https://michaeljudelarocca.hashnode.dev/how-to-set-up-dynamic-routing-with-react-router)
-- [Building Flexible React Components for Dynamic HTML Layouts](https://michaeljudelarocca.hashnode.dev/building-flexible-react-components-for-dynamic-html-layouts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
