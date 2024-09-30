@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a New GitHub Repository from a Zip File Project](https://michaeljudelarocca.hashnode.dev/how-to-create-a-new-github-repository-from-a-zip-file-project)
 - [Expert Advice for Developers Beginning Their Tech Careers](https://michaeljudelarocca.hashnode.dev/expert-advice-for-developers-beginning-their-tech-careers)
 - [My First Meetup Insights: What to Expect and How to Prepare](https://michaeljudelarocca.hashnode.dev/my-first-meetup-insights-what-to-expect-and-how-to-prepare)
 - [How Pair Programming with AI Helped Me Build a React Star Wars Website](https://michaeljudelarocca.hashnode.dev/how-pair-programming-with-ai-helped-me-build-a-react-star-wars-website)
 - [Highlights From THAT Conference WI 2024](https://michaeljudelarocca.hashnode.dev/highlights-from-that-conference-wi-2024)
-- [Implementing Dynamic Social Media Sharing in Your React App with React Share](https://michaeljudelarocca.hashnode.dev/implementing-dynamic-social-media-sharing-in-your-react-app-with-react-share)
 <!-- BLOG-POST-LIST:END -->
 
 ---
