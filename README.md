@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Elevate Your Coding Skills to Stand Out in the Job Market](https://michaeljudelarocca.hashnode.dev/how-to-elevate-your-coding-skills-to-stand-out-in-the-job-market)
 - [How Learning in Public and Networking Can Advance Your Career](https://michaeljudelarocca.hashnode.dev/how-learning-in-public-and-networking-can-advance-your-career)
 - [Bridging the Skills Gap: Empowering Junior Developers Through Apprenticeship Programs](https://michaeljudelarocca.hashnode.dev/bridging-the-skills-gap-empowering-junior-developers-through-apprenticeship-programs)
 - [How to Create a New GitHub Repository from a Zip File Project](https://michaeljudelarocca.hashnode.dev/how-to-create-a-new-github-repository-from-a-zip-file-project)
 - [Expert Advice for Developers Beginning Their Tech Careers](https://michaeljudelarocca.hashnode.dev/expert-advice-for-developers-beginning-their-tech-careers)
-- [My First Meetup Insights: What to Expect and How to Prepare](https://michaeljudelarocca.hashnode.dev/my-first-meetup-insights-what-to-expect-and-how-to-prepare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
