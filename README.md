@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Job Market Challenges: Insights from a Successful Career Changer](https://michaeljudelarocca.hashnode.dev/overcoming-job-market-challenges-insights-from-a-successful-career-changer)
 - [JavaScriptmas 2024 - Week 3](https://michaeljudelarocca.hashnode.dev/javascriptmas-2024-week-3)
 - [JavaScriptmas 2024 Week Two](https://michaeljudelarocca.hashnode.dev/javascriptmas-2024-week-two)
 - [JavaScriptmas 2024 - Week One](https://michaeljudelarocca.hashnode.dev/javascriptmas-2024-week-one)
 - [How to Elevate Your Coding Skills to Stand Out in the Job Market](https://michaeljudelarocca.hashnode.dev/how-to-elevate-your-coding-skills-to-stand-out-in-the-job-market)
-- [How Learning in Public and Networking Can Advance Your Career](https://michaeljudelarocca.hashnode.dev/how-learning-in-public-and-networking-can-advance-your-career)
 <!-- BLOG-POST-LIST:END -->
 
 ---
