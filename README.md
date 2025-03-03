@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to Customizing VBA: Code Editor Colors and More](https://michaeljudelarocca.hashnode.dev/beginners-guide-to-customizing-vba-code-editor-colors-and-more)
 - [What is Microsoft VBA and Why You Should Learn It](https://michaeljudelarocca.hashnode.dev/what-is-microsoft-vba-and-why-you-should-learn-it)
 - [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://michaeljudelarocca.hashnode.dev/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators)
 - [JavaScriptmas 2024 - Week Four](https://michaeljudelarocca.hashnode.dev/javascriptmas-2024-week-four)
 - [Overcoming Job Market Challenges: Insights from a Successful Career Changer](https://michaeljudelarocca.hashnode.dev/overcoming-job-market-challenges-insights-from-a-successful-career-changer)
-- [JavaScriptmas 2024 - Week 3](https://michaeljudelarocca.hashnode.dev/javascriptmas-2024-week-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
