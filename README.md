@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Hashnode blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying VBA Debugging: Real-Time Insights with Immediate and Locals Windows](https://michaeljudelarocca.hashnode.dev/simplifying-vba-debugging-real-time-insights-with-immediate-and-locals-windows)
-- [Beginner&#39;s Guide to Customizing VBA: Code Editor Colors and More](https://michaeljudelarocca.hashnode.dev/beginners-guide-to-customizing-vba-code-editor-colors-and-more)
-- [What is Microsoft VBA and Why You Should Learn It](https://michaeljudelarocca.hashnode.dev/what-is-microsoft-vba-and-why-you-should-learn-it)
-- [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://michaeljudelarocca.hashnode.dev/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators)
-- [JavaScriptmas 2024 - Week Four](https://michaeljudelarocca.hashnode.dev/javascriptmas-2024-week-four)
+- [From JavaScript to VBA: Navigating Variable Declaration and Management](https://dev.to/michaellarocca/from-javascript-to-vba-navigating-variable-declaration-and-management-22cj)
+- [Simplifying VBA Debugging: Real-Time Insights with Immediate and Locals Windows](https://dev.to/michaellarocca/simplifying-vba-debugging-real-time-insights-with-immediate-and-locals-windows-4ak9)
+- [Beginner&#39;s Guide to Customizing VBA: Code Editor Colors and More](https://dev.to/michaellarocca/beginners-guide-to-customizing-vba-code-editor-colors-and-more-1dn4)
+- [What is Microsoft VBA and Why You Should Learn It](https://dev.to/michaellarocca/what-is-microsoft-vba-and-why-you-should-learn-it-9og)
+- [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://dev.to/michaellarocca/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators-gpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
