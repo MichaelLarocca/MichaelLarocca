@@ -8,7 +8,7 @@
 
 ---
 
-### <img align="left" alt="michaeljudelarocca Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" /> Latest Dev blog posts 📝 
+### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
 - [From JavaScript to VBA: Navigating Variable Declaration and Management](https://dev.to/michaellarocca/from-javascript-to-vba-navigating-variable-declaration-and-management-22cj)
 - [Simplifying VBA Debugging: Real-Time Insights with Immediate and Locals Windows](https://dev.to/michaellarocca/simplifying-vba-debugging-real-time-insights-with-immediate-and-locals-windows-4ak9)
