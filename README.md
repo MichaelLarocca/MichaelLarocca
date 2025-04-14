@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering VBA: How VBA Modules Enhance Excel Solutions](https://dev.to/michaellarocca/mastering-vba-how-vba-modules-enhance-excel-solutions-415c)
 - [Mastering VBA: Load and Manipulate Data in Excel Arrays](https://dev.to/michaellarocca/mastering-vba-load-and-manipulate-data-in-excel-arrays-501d)
 - [Mastering Excel&#39;s IFNA: Efficient Value Retrieval and VLOOKUP Integration](https://dev.to/michaellarocca/mastering-excels-ifna-efficient-value-retrieval-and-vlookup-integration-360i)
 - [Mastering Excel: VLOOKUP and Custom VBA Functions for Key-Value Data Retrieval](https://dev.to/michaellarocca/mastering-excel-vlookup-and-custom-vba-functions-for-key-value-data-retrieval-8fc)
 - [From JavaScript to VBA: Navigating Variable Declaration and Management](https://dev.to/michaellarocca/from-javascript-to-vba-navigating-variable-declaration-and-management-22cj)
-- [Simplifying VBA Debugging: Real-Time Insights with Immediate and Locals Windows](https://dev.to/michaellarocca/simplifying-vba-debugging-real-time-insights-with-immediate-and-locals-windows-4ak9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
