@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Star Wars Language Translator in React](https://dev.to/michaellarocca/how-to-build-a-star-wars-language-translator-in-react-541e)
 - [Gridiron Survivor&#39;s Elfgorithm: Introduction and Team Installation](https://dev.to/michaellarocca/gridiron-survivors-elfgorithm-introduction-and-team-installation-550)
 - [Mastering VBA: How VBA Modules Enhance Excel Solutions](https://dev.to/michaellarocca/mastering-vba-how-vba-modules-enhance-excel-solutions-415c)
 - [Mastering VBA: Load and Manipulate Data in Excel Arrays](https://dev.to/michaellarocca/mastering-vba-load-and-manipulate-data-in-excel-arrays-501d)
 - [Mastering Excel&#39;s IFNA: Efficient Value Retrieval and VLOOKUP Integration](https://dev.to/michaellarocca/mastering-excels-ifna-efficient-value-retrieval-and-vlookup-integration-360i)
-- [Mastering Excel: VLOOKUP and Custom VBA Functions for Key-Value Data Retrieval](https://dev.to/michaellarocca/mastering-excel-vlookup-and-custom-vba-functions-for-key-value-data-retrieval-8fc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
