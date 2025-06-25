@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Understanding the Set and Clear Interval Methods](https://dev.to/michaellarocca/javascript-understanding-the-set-and-clear-interval-methods-2lap)
 - [Stand Out in Tech: Proactive Strategies for Aspiring Developers](https://dev.to/michaellarocca/stand-out-in-tech-proactive-strategies-for-aspiring-developers-5251)
 - [Creating Cohesive Design Systems with Atomic Design Principles](https://dev.to/michaellarocca/creating-cohesive-design-systems-with-atomic-design-principles-1a0a)
 - [Software Versioning: A Developer&#39;s Guide to Semantic and GitHub Releases](https://dev.to/michaellarocca/software-versioning-a-developers-guide-to-semantic-and-github-releases-24d6)
 - [How to Build a Star Wars Language Translator in React](https://dev.to/michaellarocca/how-to-build-a-star-wars-language-translator-in-react-541e)
-- [Gridiron Survivor&#39;s Elfgorithm: Introduction and Team Installation](https://dev.to/michaellarocca/gridiron-survivors-elfgorithm-introduction-and-team-installation-550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
