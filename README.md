@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript: The Power of forEach and Ternary Operators](https://dev.to/michaellarocca/mastering-javascript-the-power-of-foreach-and-ternary-operators-1600)
 - [How to Upgrade to Windows 11: Compatibility, Steps, and Solutions](https://dev.to/michaellarocca/how-to-upgrade-to-windows-11-compatibility-steps-and-solutions-46gh)
 - [JavaScript: Understanding the Set and Clear Interval Methods](https://dev.to/michaellarocca/javascript-understanding-the-set-and-clear-interval-methods-2lap)
 - [Stand Out in Tech: Proactive Strategies for Aspiring Developers](https://dev.to/michaellarocca/stand-out-in-tech-proactive-strategies-for-aspiring-developers-5251)
 - [Creating Cohesive Design Systems with Atomic Design Principles](https://dev.to/michaellarocca/creating-cohesive-design-systems-with-atomic-design-principles-1a0a)
-- [Software Versioning: A Developer&#39;s Guide to Semantic and GitHub Releases](https://dev.to/michaellarocca/software-versioning-a-developers-guide-to-semantic-and-github-releases-24d6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
