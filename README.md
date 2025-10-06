@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Game Timing: How Independent Intervals Can Cause Missed Collisions](https://dev.to/michaellarocca/javascript-game-timing-how-independent-intervals-can-cause-missed-collisions-5fcm)
 - [CSS Pseudo-Elements: Enhance Your Projects with Style!](https://dev.to/michaellarocca/css-pseudo-elements-enhance-your-projects-with-style-2gf8)
 - [What Is “State” in JavaScript, and How to Use It in Your Projects](https://dev.to/michaellarocca/what-is-state-in-javascript-and-how-to-use-it-in-your-projects-5e9o)
 - [Mastering JavaScript: The Power of forEach and Ternary Operators](https://dev.to/michaellarocca/mastering-javascript-the-power-of-foreach-and-ternary-operators-1600)
 - [How to Upgrade to Windows 11: Compatibility, Steps, and Solutions](https://dev.to/michaellarocca/how-to-upgrade-to-windows-11-compatibility-steps-and-solutions-46gh)
-- [JavaScript: Understanding the Set and Clear Interval Methods](https://dev.to/michaellarocca/javascript-understanding-the-set-and-clear-interval-methods-2lap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
