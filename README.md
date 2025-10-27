@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Sprint Workflow: A Beginner&#39;s Guide to Agile Development](https://dev.to/michaellarocca/sprint-workflow-a-beginners-guide-to-agile-development-22pi)
 - [JavaScript Essentials: How to Use .includes&lpar;&rpar; for Array Searches](https://dev.to/michaellarocca/javascript-essentials-how-to-use-includes-for-array-searches-2k1c)
 - [JavaScript: Array Iteration and DOM Manipulation in Game Development](https://dev.to/michaellarocca/javascript-array-iteration-and-dom-manipulation-in-game-development-2bb9)
 - [JavaScript Game Timing: How Independent Intervals Can Cause Missed Collisions](https://dev.to/michaellarocca/javascript-game-timing-how-independent-intervals-can-cause-missed-collisions-5fcm)
 - [CSS Pseudo-Elements: Enhance Your Projects with Style!](https://dev.to/michaellarocca/css-pseudo-elements-enhance-your-projects-with-style-2gf8)
-- [What Is “State” in JavaScript, and How to Use It in Your Projects](https://dev.to/michaellarocca/what-is-state-in-javascript-and-how-to-use-it-in-your-projects-5e9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
