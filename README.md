@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Micro-Frontends: What They Are and Why You Should Use Them](https://dev.to/michaellarocca/micro-frontends-what-they-are-and-why-you-should-use-them-4h95)
 - [Hackathon Highlights: Building and Livestreaming an AI Travel Agent](https://dev.to/michaellarocca/hackathon-highlights-building-and-livestreaming-an-ai-travel-agent-jnf)
 - [Experience Matters: Job Search Tips and Strategies for Overcoming Ageism](https://dev.to/michaellarocca/experience-matters-job-search-tips-and-strategies-for-overcoming-ageism-462e)
 - [Navigating Your Tech Career: Proven Strategies for Success](https://dev.to/michaellarocca/navigating-your-tech-career-proven-strategies-for-success-238o)
 - [A Guide to Better Code Organization in JavaScript Through File Separation](https://dev.to/michaellarocca/a-guide-to-better-code-organization-in-javascript-through-file-separation-2l9p)
-- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
