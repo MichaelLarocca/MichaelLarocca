@@ -10,11 +10,11 @@
 
 ### <img align="left" alt="michaeljudelarocca DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" /> Latest DEV blog posts 📝 
 <!-- BLOG-POST-LIST:START -->
+- [Turning Learning Into Opportunity: Social Media Strategies from Marko Denic](https://dev.to/michaellarocca/turning-learning-into-opportunity-social-media-strategies-from-marko-denic-25je)
 - [Learn to Code for Free and Land Your First Developer Job](https://dev.to/michaellarocca/learn-to-code-for-free-and-land-your-first-developer-job-kh0)
 - [Micro-Frontends: What They Are and Why You Should Use Them](https://dev.to/michaellarocca/micro-frontends-what-they-are-and-why-you-should-use-them-4h95)
 - [Hackathon Highlights: Building and Livestreaming an AI Travel Agent](https://dev.to/michaellarocca/hackathon-highlights-building-and-livestreaming-an-ai-travel-agent-jnf)
 - [Experience Matters: Job Search Tips and Strategies for Overcoming Ageism](https://dev.to/michaellarocca/experience-matters-job-search-tips-and-strategies-for-overcoming-ageism-462e)
-- [Navigating Your Tech Career: Proven Strategies for Success](https://dev.to/michaellarocca/navigating-your-tech-career-proven-strategies-for-success-238o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
